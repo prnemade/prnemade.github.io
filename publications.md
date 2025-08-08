@@ -54,3 +54,8 @@ layout: default
 🌐 [Google Scholar](https://scholar.google.com/citations?user=AhfDaJUAAAAJ&hl=en&oi=ao)
 🌐 [LinkedIn](https://linkedin.com/in/prnemade)  
 
+
+➡️ Use the navigation links to explore full [publications](./publications.md), [patents](./patents.md), [projects](./projects.md) and [teaching](./teaching.md).
+
+[Home](./index.md)
+
