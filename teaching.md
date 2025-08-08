@@ -29,6 +29,6 @@ layout: default
 - **Interns:** 40+ students across ICT and national institutes.
 
 
-➡️ Use the navigation links to explore full [publications](./publications.md), [patents](./patents.md), [projects](./projects.md) and [teaching and mentorship](./teaching.md).
+➡️ Explore [bio](./about.md), [publications](./publications.md), [patents](./patents.md), [projects](./projects.md) and [teaching and mentorship](./teaching.md).
 
 [Home](./index.md)
