@@ -24,3 +24,9 @@ layout: default
 - Hi-Performance Nanoparticle Filtration System with Enhanced cake resistance control (Design), IN 408321-001
 
 ### Filed (16)
+
+
+➡️ Use the navigation links to explore full [publications](./publications.md), [patents](./patents.md), [projects](./projects.md) and [teaching](./teaching.md).
+
+[Home](./index.md)
+
