@@ -1,0 +1,29 @@
+---             
+title: "Teaching & Mentorship"
+layout: default
+---
+### Subjects Taught
+
+- Introduction to Chemical Engineering
+- Material and Energy Balance Calculations
+- Chemical Engineering Thermodynamics-1
+- Chemical Engineering Operations
+- Momentum Transport
+- Advanced Momentum Transfer
+- Heat Transfer
+- Chemical Reaction Engineering
+- Advanced Reaction Engineering
+- Chemical Engineering Laboratory
+- Process Simulation Laboratory
+- Industrial and Engineering Chemistry
+- Project Management and Economics
+- Life Cycle Analysis and Sustainability
+- Advanced Membrane Separations
+- Mathematical Methods in Chemical Engineering
+- Nanotechnology and its applications
+
+### Supervision Summary
+
+- **Ph.D. students:** 8 completed, 5 ongoing  
+- **Masters:** 32 completed  
+- **Integrated M.Tech & Interns:** 40+ students across ICT and national institutes.
