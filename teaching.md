@@ -27,3 +27,8 @@ layout: default
 - **Ph.D. students:** 8 completed, 5 ongoing  
 - **Masters:** 32 completed  
 - **Integrated M.Tech & Interns:** 40+ students across ICT and national institutes.
+
+
+➡️ Use the navigation links to explore full [publications](./publications.md), [patents](./patents.md), [projects](./projects.md) and [teaching](./teaching.md).
+
+[Home](./index.md)
