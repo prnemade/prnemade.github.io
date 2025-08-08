@@ -36,6 +36,4 @@ The central theme of the research is to leverage novel material designs and sust
 
 ➡️ Use the navigation links to explore full [publications](./publications.md), [patents](./patents.md), [projects](./projects.md) and [teaching and mentorship](./teaching.md).
 
-[Home](./index.md)➡️ Use the navigation links to explore full [publications](./publications.md), [patents](./patents.md), [projects](./projects.md) and [teaching](./teaching.md).
-
 [Home](./index.md)
