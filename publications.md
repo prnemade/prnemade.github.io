@@ -55,7 +55,7 @@ layout: default
 🌐 [LinkedIn](https://linkedin.com/in/prnemade)  
 
 
-➡️ Use the navigation links to explore full [publications](./publications.md), [patents](./patents.md), [projects](./projects.md) and [teaching](./teaching.md).
+➡️ Use the navigation links to explore full [publications](./publications.md), [patents](./patents.md), [projects](./projects.md) and [teaching and mentorship](./teaching.md).
 
 [Home](./index.md)
 
