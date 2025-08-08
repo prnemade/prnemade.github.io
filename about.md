@@ -6,7 +6,7 @@ layout: default
 ## Contact
 
 - **Office-Address:** Nathalal Parekh Marg, Mumbai 400 058  
-- **E-mail:** pr.nemade [@] ictmumbai.edu.in / pr.nemade [@] gmail.com  
+- **E-mail:** pr.nemade [@] ictmumbai [dot] edu [dot] in / pr.nemade [@] gmail [dot] com  
 - **Phone:** +91-22-3361-2027 (O) 
 
 ## Education
@@ -25,6 +25,14 @@ layout: default
 - **DAE-ICT Scientist A**, Department of Chemical Engineering, ICT, Mumbai (2011-2013)  
 
 Courses taught include *Advanced Separation Processes*, *Nanotechnology*, *Momentum Transfer* and more.
+
+### (Links)
+🌐 [LinkedIn](https://linkedin.com/in/prnemade) 
+🌐 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=6602082321)
+🌐 [Google Scholar](https://scholar.google.com/citations?user=AhfDaJUAAAAJ&hl=en&oi=ao)
+🌐 [ORCID](https://orcid.org/0000-0003-4680-1084)
+ 
+
 
 ➡️ Explore [bio](./about.md), [publications](./publications.md), [patents](./patents.md), [projects](./projects.md) and [teaching and mentorship](./teaching.md).
 
