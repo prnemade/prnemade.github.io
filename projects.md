@@ -23,6 +23,6 @@ layout: default
 | Improving profitability of sugarcane industry | DST-TDP | Ongoing |
 
 
-➡️ Use the navigation links to explore full [publications](./publications.md), [patents](./patents.md), [projects](./projects.md) and [teaching](./teaching.md).
+➡️ Use the navigation links to explore full [publications](./publications.md), [patents](./patents.md), [projects](./projects.md) and [teaching and mentorship](./teaching.md).
 
 [Home](./index.md)
