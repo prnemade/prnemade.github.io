@@ -1,0 +1,38 @@
+<!-- _layouts/default.html -->
+<!doctype html>
+<html lang="en">
+  <head>
+    {%- include head.html -%}
+    <link rel="stylesheet" href="{{ "/assets/sidebar.css" | relative_url }}">
+  </head>
+
+  <body>
+    <!-- ===== Sidebar ===== -->
+    <aside class="sidebar">
+      <header>
+        <h2><a href="{{ "/" | relative_url }}">{{ site.title }}</a></h2>
+      </header>
+
+      <nav>
+        <ul>
+          {%- assign pages_sorted = site.pages | sort: "title" -%}
+          {%- for p in pages_sorted -%}
+            {%- if p.title and p.nav_exclude != true -%}
+              <li>
+                <a href="{{ p.url | relative_url }}"
+                   {% if page.url == p.url %}class="active"{% endif %}>
+                  {{ p.title }}
+                </a>
+              </li>
+            {%- endif -%}
+          {%- endfor -%}
+        </ul>
+      </nav>
+    </aside>
+
+    <!-- ===== Main content ===== -->
+    <main class="content">
+      {{ content }}
+    </main>
+  </body>
+</html>
