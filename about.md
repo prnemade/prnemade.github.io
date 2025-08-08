@@ -24,4 +24,8 @@ layout: default
 - **UGC Assistant Professor**, Department of Chemical Engineering, and Department of Oils, Oleochemicals and Surfactants Technology, ICT, Mumbai (2013-2022) 
 - **DAE-ICT Scientist A**, Department of Chemical Engineering, ICT, Mumbai (2011-2013)  
 
-Courses taught include *Advanced Separation Processes*, *Nanotechnology*, *Momentum Transfer* and more:contentReference[oaicite:3]{index=3}.
+Courses taught include *Advanced Separation Processes*, *Nanotechnology*, *Momentum Transfer* and more.
+
+➡️ Explore [bio](./about.md), [publications](./publications.md), [patents](./patents.md), [projects](./projects.md) and [teaching and mentorship](./teaching.md).
+
+[Home](./index.md)
