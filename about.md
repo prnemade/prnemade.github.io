@@ -20,7 +20,7 @@ layout: default
 ## Experience
 
 - **Associate Professor**, Department of Chemical Engineering, Institute of Chemical Technology (ICT) Mumbai (2022-present)  
-- **Deputy Director**, ICT Marathwada Campus (2018-2025)
+- **_Founding_ Deputy Director**, ICT Marathwada Campus (2018-2025)
 - **UGC Assistant Professor**, Department of Chemical Engineering, and Department of Oils, Oleochemicals and Surfactants Technology, ICT, Mumbai (2013-2022) 
 - **DAE-ICT Scientist A**, Department of Chemical Engineering, ICT, Mumbai (2011-2013)  
 
