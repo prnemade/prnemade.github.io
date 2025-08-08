@@ -21,3 +21,8 @@ layout: default
 | Process intensification and life cycle assessment of lactic acid production and separation | SERB-SURE | Ongoing |
 | Corrosion Assessment of Steel Rebars | Kalika Steels Pvt. Ltd. | Ongoing |
 | Improving profitability of sugarcane industry | DST-TDP | Ongoing |
+
+
+➡️ Use the navigation links to explore full [publications](./publications.md), [patents](./patents.md), [projects](./projects.md) and [teaching](./teaching.md).
+
+[Home](./index.md)
