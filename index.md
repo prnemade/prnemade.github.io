@@ -34,6 +34,6 @@ We have designed hyperbranched graphene-based electrodes, waste tyre char, cellu
 The central theme of the research is to leverage novel material designs and sustainable practices to address critical challenges in environmental management, clean energy, and resource efficiency.
 
 
-➡️ Explore [bio](./about.md), [patents](./patents.md), [projects](./projects.md), [publications](./publications.md), [teaching](./teaching.md) and [team members] (./team.md)
+➡️ Explore [bio](./about.md), [patents](./patents.md), [projects](./projects.md), [publications](./publications.md), [teaching](./teaching.md) and [team members](./team.md)
 
 [Home](./index.md)
