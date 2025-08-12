@@ -22,13 +22,13 @@ layout: default
 - Mathematical Methods in Chemical Engineering
 - Nanotechnology and its applications
 
-### Supervision Summary
+### [Mentorship Summary](./team.md)
 
 - **Ph.D. students:** 8 completed, 5 ongoing  
 - **Masters and Integrated Masters:** 60 completed  
 - **Interns:** 40+ students across ICT and national institutes.
 
 
-➡️ Explore [bio](./about.md), [publications](./publications.md), [patents](./patents.md), [projects](./projects.md) and [teaching and mentorship](./teaching.md).
+➡️ Explore [bio](./about.md), [patents](./patents.md), [projects](./projects.md), [publications](./publications.md), [teaching](./teaching.md) and [team members](./team.md)
 
 [Home](./index.md)
