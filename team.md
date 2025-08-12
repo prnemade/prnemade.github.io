@@ -16,13 +16,14 @@ layout: default
 | 5       | Ph.D. (Tech)   | Bhushan Patare              |                                                                                                             | 2020- |
 | 6       | Ph.D. (Tech)   | Sajan Babhare               |                                                                                                             | 2020- |
 | 7       | Ph.D. (Sci)    | Sayalee Baviskar            | Use of carbon-based materials for organic transformations and electrochemical studies                      | 2019- |
+| 8       | Ph.D. (Tech)   | Chinmay Jaiswal             | Development of membranes for sugarcane juice filtration                                                    | 2025- |
 
 ### Project Fellows
 
 | Sr. No. | Name            | Title of Project  | Year | 
 |---------|-----------------|-------------------|------|
-| 8 | Rushikesh Panchal	| Banana pseudostem valorization| 2024- |
-| 9 | Pavan Kadam |	Process intensification of lactic acid production |	2024- |
+| 9 | Rushikesh Panchal	| Banana pseudostem valorization| 2024- |
+| 10 | Pavan Kadam |	Process intensification of lactic acid production |	2024- |
 
 
 ## Alumni
