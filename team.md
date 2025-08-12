@@ -28,6 +28,8 @@ layout: default
 
 ## Alumni
 
+### Ph.D.  
+
 | Sr. No. | Program         | Name                           | Title of Dissertation                                                                                                       | Year     |
 |---------|-----------------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------|----------|
 | 1       | Ph.D. (Sci)     | Dr. Kiran Babasaheb Dhopte         | Application of Graphene oxide as catalyst as well as catalyst support for various organic transformations                  | 2012-17  |
@@ -39,7 +41,7 @@ layout: default
 | 7       | Ph.D. (Tech)    | Dr. Rutuja Bhoje                   | Graphene based high performance material for desalination                                                                   | 2019-25  |
 | 8       | Ph.D. (Tech)    | Dr. Shruti Bajpai                  | Extraction and production of valuable compounds from aquatic macrophyte                                                     | 2019-25  |
 
-## Masters Dissertation List
+### Masters 
 
 | Sr. No. | Program                           | Name                       | Title of Thesis                                                                                                                      | Year     |
 |---------|-----------------------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------|----------|
