@@ -55,7 +55,7 @@ layout: default
 🌐 [LinkedIn](https://linkedin.com/in/prnemade)  
 
 
-➡️ Explore [bio](./about.md), [publications](./publications.md), [patents](./patents.md), [projects](./projects.md) and [teaching and mentorship](./teaching.md).
+➡️ Explore [bio](./about.md), [patents](./patents.md), [projects](./projects.md), [publications](./publications.md), [teaching](./teaching.md) and [team members](./team.md)
 
 [Home](./index.md)
 
