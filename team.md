@@ -6,7 +6,7 @@ layout: default
 ## Team Members
 
 ### Doctoral students
-| Sr. No. | Program | Name             | Title of Dissertation                                                                                      | Year  |
+| Sr. No. | Program        | Name                        | Title of Dissertation                                                                                       | Year  |
 |---------|----------------|-----------------------------|-------------------------------------------------------------------------------------------------------------|-------|
 | 1       | Ph.D. (Tech)   | Vaishnavi Pabishetty S. V.  | All graphene membrane                                                                                       | 2017- |
 | 2       | Ph.D. (Tech)   | Mamata Sardare              | DNA-Based Bio-Hybrid Adsorbents for Industrial Wastewater Remediation through Heavy Metal and Dye Removal  | 2016- |
@@ -26,7 +26,7 @@ layout: default
 
 ## Alumni
 
-| Sr. No. | Program | Name of Student               | Title of Dissertation                                                                                                      | Year     |
+| Sr. No. | Program         | Name                           | Title of Dissertation                                                                                                       | Year     |
 |---------|-----------------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------|----------|
 | 1       | Ph.D. (Sci)     | Dr. Kiran Babasaheb Dhopte         | Application of Graphene oxide as catalyst as well as catalyst support for various organic transformations                  | 2012-17  |
 | 2       | Ph.D. (Tech)    | Dr. Rahul S. Zambare               | Synthesis and Development of Graphene Oxide for Separation Processes                                                        | 2013-17  |
@@ -39,7 +39,7 @@ layout: default
 
 ## Masters Dissertation List
 
-| Sr. No. | Name of Course                   | Name of Student           | Name of Thesis/Dissertation                                                                                                          | Year     |
+| Sr. No. | Program                           | Name                       | Title of Thesis                                                                                                                      | Year     |
 |---------|-----------------------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------|----------|
 | 1       | M. Chem. Eng.                     | Rasika Dhamankar           | Synthesis and development of polymeric membranes                                                                                     | 2011-13  |
 | 2       | M. Chem. Eng.                     | Gaurav L. Raut             | Development of polymeric membranes for ultrafiltration                                                                               | 2012-14  |
@@ -79,6 +79,6 @@ layout: default
 | 36      | M. Chem. Eng.                     | Dinesh Ganpatrao Girhe     | Scale up of Electro-Sorption process: optimizing flow between parallel electrodes for Organic acid removal                            | 2023-25  |
 
 
-➡️ Explore [bio](./about.md), [patents](./patents.md), [projects](./projects.md), [publications](./publications.md), [teaching](./teaching.md) and [team members] (./team.md)
+➡️ Explore [bio](./about.md), [patents](./patents.md), [projects](./projects.md), [publications](./publications.md), [teaching](./teaching.md) and [team members](./team.md)
 
 [Home](./index.md)
