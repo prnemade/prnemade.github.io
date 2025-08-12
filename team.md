@@ -77,3 +77,8 @@ layout: default
 | 34      | M. Tech (OOST)                    | Yashashree Salunkhe        | Nutritional enhancement of mayonnaise with omega-3 PUFA with an algal oil and its effects on physical and sensory attributes          | 2019-21  |
 | 35      | M. Chem. Eng.                     | Krishna Nivrutti Patil     | Development and implementation of electro-sorption technology for efficient removal of organic compound from an aqueous solution      | 2022-24  |
 | 36      | M. Chem. Eng.                     | Dinesh Ganpatrao Girhe     | Scale up of Electro-Sorption process: optimizing flow between parallel electrodes for Organic acid removal                            | 2023-25  |
+
+
+➡️ Explore [bio](./about.md), [patents](./patents.md), [projects](./projects.md), [publications](./publications.md), [teaching](./teaching.md) and [team members] (./team.md)
+
+[Home](./index.md)
