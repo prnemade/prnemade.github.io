@@ -93,11 +93,13 @@ layout: default
 | 35      | M. Chem. Eng.                     | Krishna Nivrutti Patil     | Development and implementation of electro-sorption technology for efficient removal of organic compound from an aqueous solution      | 2022-24  |
 | 36      | M. Chem. Eng.                     | Dinesh Ganpatrao Girhe     | Scale up of Electro-Sorption process: optimizing flow between parallel electrodes for Organic acid removal                            | 2023-25  |
 
-Project Collaboration Alumni
+### Project Collaboration Alumni
+
 | Sr. No. | Name | Collaboration |
 |---------|----------------------------|---------------------| 
 | 1 | Dr. Bharat Honmane | Adsorptive removal of free fatty acid |
 | 2 | Dr. Pryianka Sane | Development of catalysts for methane reforming | 
+
 ➡️ Explore [bio](./about.md), [patents](./patents.md), [projects](./projects.md), [publications](./publications.md), [teaching](./teaching.md) and [team members](./team.md)
 
 [Home](./index.md)
