@@ -101,7 +101,7 @@ layout: default
 | Sr. No. | Name | Collaboration |
 |---------|----------------------------|---------------------| 
 | 1 | Dr. Bharat Honmane | Adsorptive removal of free fatty acid |
-| 2 | Dr. Pryianka Sane | Development of catalysts for methane reforming | 
+| 2 | Dr. Priyanka Sane | Development of catalysts for methane reforming | 
 
 ➡️ Explore [bio](./about.md), [patents](./patents.md), [projects](./projects.md), [publications](./publications.md), [teaching](./teaching.md) and [team members](./team.md)
 
