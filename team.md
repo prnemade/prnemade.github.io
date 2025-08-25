@@ -102,6 +102,7 @@ layout: default
 |---------|----------------------------|---------------------| 
 | 1 | Dr. Bharat Honmane | Adsorptive removal of free fatty acid |
 | 2 | Dr. Priyanka Sane | Development of catalysts for methane reforming | 
+| 3 | Ms. Ayushi Bhaduri | Development of membranes for sugarcane juice filtration | 
 
 ➡️ Explore [bio](./about.md), [patents](./patents.md), [projects](./projects.md), [publications](./publications.md), [teaching](./teaching.md) and [team members](./team.md)
 
