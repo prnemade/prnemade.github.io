@@ -16,7 +16,7 @@ layout: default
 
 
 ## Current Team Members
-
+---
 
 ### Doctoral Students
 
@@ -37,10 +37,10 @@ layout: default
 |---------|-----------------|-------------------|------|
 | 9 | Rushikesh Panchal	| Banana pseudostem valorization| 2024- |
 
----
+# 
 
 ## Alumni
-
+---
 ### Ph.D.  Alumni
 
 | Sr. No. | Program         | Name                           | Title of Dissertation                                                                                                       | Year     |
