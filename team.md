@@ -10,8 +10,10 @@ layout: default
 - [Alumni](#alumni)
   - [Ph.D. Alumni](#phd-alumni)
   - [Masters Alumni](#masters-alumni)
-
+  - [Project Collaborators](#project-collaborators)
+  
 ---
+
 
 ## Current Team Members
 
@@ -35,7 +37,7 @@ layout: default
 |---------|-----------------|-------------------|------|
 | 9 | Rushikesh Panchal	| Banana pseudostem valorization| 2024- |
 
-
+---
 
 ## Alumni
 
@@ -94,7 +96,7 @@ layout: default
 | 35      | M. Chem. Eng.                     | Krishna Nivrutti Patil     | Development and implementation of electro-sorption technology for efficient removal of organic compound from an aqueous solution      | 2022-24  |
 | 36      | M. Chem. Eng.                     | Dinesh Ganpatrao Girhe     | Scale up of Electro-Sorption process: optimizing flow between parallel electrodes for Organic acid removal                            | 2023-25  |
 
-### Project Collaboration Alumni
+### Project Collaborators
 
 | Sr. No. | Name | Collaboration |
 |---------|----------------------------|---------------------| 
