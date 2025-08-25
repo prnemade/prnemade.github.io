@@ -28,6 +28,7 @@ layout: default
 | 6       | Ph.D. (Sci)    | Sayalee Baviskar            | Use of carbon-based materials for organic transformations and electrochemical studies                      | 2019- |
 | 7      | Ph.D. (Tech)    | Chinmay Jaiswal             | Development of membranes for sugarcane juice filtration                                                    | 2025- |
 | 8       | Ph.D. (Sci)    | Pavan Kadam                 |	Process intensification of lactic acid production                                                         |	2024- |
+
 ### Project Fellows
 
 | Sr. No. | Name            | Title of Project  | Year | 
