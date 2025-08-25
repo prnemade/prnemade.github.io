@@ -21,20 +21,19 @@ layout: default
 | Sr. No. | Program        | Name                        | Title of Dissertation                                                                                       | Year  |
 |---------|----------------|-----------------------------|-------------------------------------------------------------------------------------------------------------|-------|
 | 1       | Ph.D. (Tech)   | Vaishnavi Pabishetty S. V.  | All graphene membrane                                                                                       | 2017- |
-| 2       | Ph.D. (Tech)   | Mamata Sardare              | DNA-Based Bio-Hybrid Adsorbents for Industrial Wastewater Remediation through Heavy Metal and Dye Removal  | 2016- |
-| 3       | Ph.D. (Tech)   | Dhruti Rakhte               | Graphene nanocomposite membranes                                                                            | 2017- |
-| 4       | Ph.D. (Tech)   | Sandeep Haral               | Value added products from seed industry wastes                                                              | 2019- |
-| 5       | Ph.D. (Tech)   | Bhushan Patare              |                                                                                                             | 2020- |
-| 6       | Ph.D. (Tech)   | Sajan Babhare               |                                                                                                             | 2020- |
-| 7       | Ph.D. (Sci)    | Sayalee Baviskar            | Use of carbon-based materials for organic transformations and electrochemical studies                      | 2019- |
-| 8       | Ph.D. (Tech)   | Chinmay Jaiswal             | Development of membranes for sugarcane juice filtration                                                    | 2025- |
-
+| 2       | Ph.D. (Tech)   | Dhruti Rakhte               | Graphene nanocomposite membranes                                                                            | 2017- |
+| 3       | Ph.D. (Tech)   | Sandeep Haral               | Value added products from seed industry wastes                                                              | 2019- |
+| 4       | Ph.D. (Tech)   | Bhushan Patare              |                                                                                                             | 2020- |
+| 5       | Ph.D. (Tech)   | Sajan Babhare               |                                                                                                             | 2020- |
+| 6       | Ph.D. (Sci)    | Sayalee Baviskar            | Use of carbon-based materials for organic transformations and electrochemical studies                      | 2019- |
+| 7      | Ph.D. (Tech)    | Chinmay Jaiswal             | Development of membranes for sugarcane juice filtration                                                    | 2025- |
+| 8       | Ph.D. (Sci)    | Pavan Kadam                 |	Process intensification of lactic acid production                                                         |	2024- |
 ### Project Fellows
 
 | Sr. No. | Name            | Title of Project  | Year | 
 |---------|-----------------|-------------------|------|
 | 9 | Rushikesh Panchal	| Banana pseudostem valorization| 2024- |
-| 10 | Pavan Kadam |	Process intensification of lactic acid production |	2024- |
+
 
 
 ## Alumni
@@ -43,14 +42,15 @@ layout: default
 
 | Sr. No. | Program         | Name                           | Title of Dissertation                                                                                                       | Year     |
 |---------|-----------------|--------------------------------|-----------------------------------------------------------------------------------------------------------------------------|----------|
-| 1       | Ph.D. (Sci)     | Dr. Kiran Babasaheb Dhopte         | Application of Graphene oxide as catalyst as well as catalyst support for various organic transformations                  | 2012-17  |
-| 2       | Ph.D. (Tech)    | Dr. Rahul S. Zambare               | Synthesis and Development of Graphene Oxide for Separation Processes                                                        | 2013-17  |
-| 3       | Ph.D. (Tech)    | Dr. Sushil M. Chaudhari            | Development of metal oxide catalysts for oxidative, non-oxidative and photocatalytic reactions                              | 2013-17  |
-| 4       | Ph.D. (Sci)     | Dr. Jyoti Prakash Ambre            | Environmental applications of graphene oxide and functionalized graphene oxide                                              | 2015-20  |
-| 5       | Ph.D. (Tech)    | Dr. Aniket Waval                   | Studies in crystallization for continuous synthesis of nanoparticles                                                         | 2015-20  |
-| 6       | Ph.D. (Sci)     | Dr. Olviya Stanny Gonsalves        | Synthesis of triazine based covalent organic framework and their multifunctional applications                               | 2019-25  |
-| 7       | Ph.D. (Tech)    | Dr. Rutuja Bhoje                   | Graphene based high performance material for desalination                                                                   | 2019-25  |
-| 8       | Ph.D. (Tech)    | Dr. Shruti Bajpai                  | Extraction and production of valuable compounds from aquatic macrophyte                                                     | 2019-25  |
+| 1       | Ph.D. (Sci)     | Dr. Kiran Babasaheb Dhopte         | Application of Graphene oxide as catalyst as well as catalyst support for various organic transformations                  | 2017  |
+| 2       | Ph.D. (Tech)    | Dr. Rahul S. Zambare               | Synthesis and Development of Graphene Oxide for Separation Processes                                                        | 2017  |
+| 3       | Ph.D. (Tech)    | Dr. Sushil M. Chaudhari            | Development of metal oxide catalysts for oxidative, non-oxidative and photocatalytic reactions                              | 2017  |
+| 4       | Ph.D. (Sci)     | Dr. Jyoti Prakash Ambre            | Environmental applications of graphene oxide and functionalized graphene oxide                                              | 2020  |
+| 5       | Ph.D. (Tech)    | Dr. Aniket Waval                   | Studies in crystallization for continuous synthesis of nanoparticles                                                         | 2020  |
+| 6       | Ph.D. (Sci)     | Dr. Olviya Stanny Gonsalves        | Synthesis of triazine based covalent organic framework and their multifunctional applications                               | 2025  |
+| 7       | Ph.D. (Tech)    | Dr. Rutuja Bhoje                   | Graphene based high performance material for desalination                                                                   | 2025  |
+| 8       | Ph.D. (Tech)    | Dr. Shruti Bajpai                  | Extraction and production of valuable compounds from aquatic macrophyte                                                     | 2025  |
+| 9       | Ph.D. (Tech)    | Dr. Mamata Sardare                 | DNA-Based Bio-Hybrid Adsorbents for Industrial Wastewater Remediation through Heavy Metal and Dye Removal                   | 2025 |
 
 ### Masters Alumni
 
