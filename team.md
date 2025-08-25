@@ -37,7 +37,7 @@ layout: default
 |---------|-----------------|-------------------|------|
 | 9 | Rushikesh Panchal	| Banana pseudostem valorization| 2024- |
 
-# 
+ 
 
 ## Alumni
 ---
