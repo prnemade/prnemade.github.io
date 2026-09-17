@@ -45,10 +45,11 @@ layout: default
 1.	Waval, A. S., Patel, P., Nemade, P. R., Mathpati, C. S., Experimental studies in antisolvent crystallization: Effect of antisolvent ratio and mixing patterns, Ind. J. Chem. Tech., 2020, 27, 18-25. <http://nopr.niscair.res.in/handle/123456789/54030>
 
 ### Book Chapters
-1.	Gonsalves, O. S., Zambare,R. S., and Nemade, P. R., Membrane processes in food processing: Introduction, types, and application in, Research on Food Process Engineering and Applications, ed. Goyal, M. R. and Watharkar, R. B., Apple Academic Press, 2020.
-2.	Zambare, R. S., and Nemade, P. R., Graphene and its derivatives for environmental applications in, Functionalized Nanomaterials based Devices for Environmental Applications, ed. Hussain, C. M., Shukla, S. K., Joshi, G. M., Elsevier, 2020.
-3.	Zambare, R. S. and Nemade, P. R., Polymer Nanocomposite Membranes for Wastewater Treatment, in Handbook of Nanomaterials for Wastewater Treatment: Fundamentals and Scale up issues, ed. Bhanvase, B. A., Sonawane, S. H., Pawade, V. B., Pandit, A. B., Elsevier, 2020. 
-4.	Bhoje, R. S., and Nemade, P. R., Polymer Nanogenerators, in Polymers in Energy Conversion and Storage, ed. Inamuddin, CRC Press, 2021, ISBN: 9781003169727.
+1.  Parag R. Nemade, Olviya S. Gonsalves, P. S. V. Vaishnavi, Organic Solvent Nanofiltration, in Handbook of Membrane Separations: Chemical, Pharmaceutical, Food and Biotechnological Applications, Third Edition, ed. Organic Solvent Resistant Nanofiltration, Anil Kumar Pabby, Ranil Wickramsinghe, Ana Maria Sastre Requena, CRC Press, 2022.
+2.  Bhoje, R. S., and Nemade, P. R., Polymer Nanogenerators, in Polymers in Energy Conversion and Storage, ed. Inamuddin, CRC Press, 2021, ISBN: 9781003169727.
+3.	Gonsalves, O. S., Zambare,R. S., and Nemade, P. R., Membrane processes in food processing: Introduction, types, and application in, Research on Food Process Engineering and Applications, ed. Goyal, M. R. and Watharkar, R. B., Apple Academic Press, 2020.
+4.	Zambare, R. S., and Nemade, P. R., Graphene and its derivatives for environmental applications in, Functionalized Nanomaterials based Devices for Environmental Applications, ed. Hussain, C. M., Shukla, S. K., Joshi, G. M., Elsevier, 2020.
+5.	Zambare, R. S. and Nemade, P. R., Polymer Nanocomposite Membranes for Wastewater Treatment, in Handbook of Nanomaterials for Wastewater Treatment: Fundamentals and Scale up issues, ed. Bhanvase, B. A., Sonawane, S. H., Pawade, V. B., Pandit, A. B., Elsevier, 2020. 
 
 
 ### (Links)
